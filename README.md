@@ -7,3 +7,5 @@ Text files Find and Replace tool with multiple/batch files search and multiple r
 •	Recursive file search and replace
 
 •	Ignore case option
+
+license GPL
